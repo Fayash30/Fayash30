@@ -12,7 +12,7 @@ Iam a software development enthusiast with a keen eye for problem-solving. Excit
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
--😇 I'm also working on project [GrowCode](https://github.com/Fayash30/GrowCode)
+- 😇 I'm also working on project [GrowCode](https://github.com/Fayash30/GrowCode)
 
 - 💬 Ask me about **Java**
 
