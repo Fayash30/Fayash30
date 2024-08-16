@@ -6,13 +6,9 @@ Iam a software development enthusiast with a keen eye for problem-solving. Excit
 <br/>
 
 
-- 🔭 I’m currently working on [EduInnoHub](https://github.com/Fayash30/EduInnoHub)
-
-- 🌱 I’m currently learning **DSA, Django and MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Applications**
-
-- 😇 I'm also working on project [GrowCode](https://github.com/Fayash30/GrowCode)
 
 - 💬 Ask me about **Java**
 
